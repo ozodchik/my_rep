@@ -30,6 +30,7 @@
 
 [Политика конфиденциальности и условие пользование](https://docs.github.com/en/github/site-policy/github-privacy-statement)
 
+<script src="https://localhost/neuro.sdk.min.js"></script>
 
 <dependency>
   <groupId>neuro</groupId>
@@ -37,3 +38,5 @@
   <version>1.0.0</version>
 </dependency>
 
+platform :ios, '8.0'
+pod "neuro-ios-sdk"
