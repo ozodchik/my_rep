@@ -29,3 +29,11 @@
 
 
 [Политика конфиденциальности и условие пользование](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+
+
+<dependency>
+  <groupId>neuro</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.0</version>
+</dependency>
+
